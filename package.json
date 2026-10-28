@@ -57,7 +57,7 @@
   },
   "dependencies": {
     "@zone-eu/mailsplit": "5.4.20",
-    "dompurify": "3.4.16",
+    "dompurify": "3.4.17",
     "imapflow": "1.7.8",
     "lucide-react": "^0.511.0",
     "mailparser": "3.9.38",
